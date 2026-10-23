@@ -1,6 +1,6 @@
 [app]
-title = ALI X STAR AI
-package.name = alixstarai
+title = ALI X STAR Calculator
+package.name = alixstarcalculator
 package.domain = org.alixstar
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
